@@ -1,0 +1,20 @@
+{
+  "name": "load-cb",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "main": "index.mjs",
+  "bin": {
+    "load-cb": "./bin/load-cb.js"
+  },
+  "files": [
+    "index.mjs",
+    "bin"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
